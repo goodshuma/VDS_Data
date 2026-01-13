@@ -50,42 +50,56 @@
       "AvatarID": "5813187",
       "AvatarName": "44Kt44OX44OV44Kn44OrIEtpcGZlbCAvIOOCquODquOCuOODiuODqzNE44Oi44OH44Or",
       "Price": 5500,
+      "BluePrintID": "",
+      "Thumbnail": "",
       "ShopID": "mukumi"
     },
     {
       "AvatarID": "3550881",
       "AvatarName": "44GG44GV44GV44GNIFVzYXNha2kgLyDjgqrjg6rjgrjjg4rjg6szROODouODh+ODqw==",
       "Price": 5000,
+      "BluePrintID": "",
+      "Thumbnail": "",
       "ShopID": "mukumi"
     },
     {
       "AvatarID": "6199796",
       "AvatarName": "8J+Rgu+4j+OBv+OBv+OBruOBkyAtVjIuMOOAkFZSQ+WQkeOBkTNE44Oi44OH44Or44CRIA==",
       "Price": 5500,
+      "BluePrintID": "",
+      "Thumbnail": "",
       "ShopID": "sahkert"
     },
     {
       "AvatarID": "5986971",
       "AvatarName": "44Kq44Oq44K444OK44OrM0Tjg6Ljg4fjg6vjgIzjg43jg6HjgrfjgrnjgI0tTmVtZXNpcy0gIHZlci4xLjEx44CQQW5kcm9pZC9JT1MvQ2x1c3RlcuODu1ZSTeWvvuW/nOOAkQ==",
       "Price": 5500,
+      "BluePrintID": "",
+      "Thumbnail": "",
       "ShopID": "komainu-street"
     },
     {
       "AvatarID": "6663666",
       "AvatarName": "44Kq44Oq44K444OK44OrM0Tjg6Ljg4fjg6vjgIzjgqjjg6vjgrfjgqrjg7PjgI0tRUx1c2lvbi0gIOOAkEFuZHJvaWTjg7tJT1Plr77lv5zjgJE=",
       "Price": 5500,
+      "BluePrintID": "",
+      "Thumbnail": "",
       "ShopID": "komainu-street"
     },
     {
       "AvatarID": "7363489",
       "AvatarName": "44Kq44Oq44K444OK44OrM0Tjg6Ljg4fjg6vjgIxOb2NoaWNhIC3jg47jg7zjg4Hjgqst44CN",
       "Price": 5000,
+      "BluePrintID": "",
+      "Thumbnail": "",
       "ShopID": "sisters"
     },
     {
       "AvatarID": "6654988",
       "AvatarName": "44Kq44Oq44K444OK44OrM0Tjg6Ljg4fjg6vjgI7jgqLjgrrjgq3jgI8=",
       "Price": 6000,
+      "BluePrintID": "",
+      "Thumbnail": "",
       "ShopID": "emolab"
     }
   ],
@@ -93,31 +107,37 @@
     {
       "ShopID": "shake-mk-5647",
       "ShopName": "44GX44KD44GR44Gu44GE44GR44GZ",
+      "Thumbnail": "",
       "TwitterID": "sanobe_shakeko"
     },
     {
       "ShopID": "mukumi",
       "ShopName": "44KC44Gh5bGx6YeR6a2a",
+      "Thumbnail": "",
       "TwitterID": "mukumi"
     },
     {
       "ShopID": "sahkert",
       "ShopName": "8J2QkvCdkJrwnZCh8J2QpPCdkJ7wnZCtKOOBleOBteOBkeOBo+OBqCk=",
+      "Thumbnail": "",
       "TwitterID": ""
     },
     {
       "ShopID": "komainu-street",
       "ShopName": "44GT44G+44GE44Gs6YCa44KK",
+      "Thumbnail": "",
       "TwitterID": ""
     },
     {
       "ShopID": "sisters",
       "ShopName": "U2lzdGVycyE=",
+      "Thumbnail": "",
       "TwitterID": ""
     },
     {
       "ShopID": "emolab",
       "ShopName": "44GI44KC56CU",
+      "Thumbnail": "",
       "TwitterID": ""
     }
   ]
